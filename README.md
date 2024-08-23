@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Divya-Ojha
-- 👀 I’m in 2nd year CSE right now,and I have just started my github journey..
+- 👀 I’m in 3rd year CSE right now,and I have just started my github journey..
 - 🌱 I’m currently learning java,c,python,HTML,CSS and JavaScript.
 - 💞️ I’m looking to collaborate on with people around and learn from them.
 - 📫 How to reach me ...Just reach me here at github.
